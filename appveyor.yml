@@ -1,5 +1,7 @@
 build:
   verbosity: minimal
+buid_script:
+  - cmd: npm i
 install:
 - ps: Install-Product node 8
 pull_requests:

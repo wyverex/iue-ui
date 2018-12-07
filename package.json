@@ -1,0 +1,18 @@
+{
+  "author": "ShirtlessKirk <dev@shirtlesskirk.com> (https://github.com/ShirtlessKirk)",
+  "description": "In-Universe Engine User Interface",
+  "keywords": [
+    "ui"
+  ],
+  "license": "WTFPL",
+  "main": "index.js",
+  "name": "iue-ui",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}

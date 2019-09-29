@@ -13,6 +13,6 @@
   },
   "version": "0.0.1",
   "devDependencies": {
-    "eslint": "^5.9.0"
+    "eslint": "^6.5.0"
   }
 }
